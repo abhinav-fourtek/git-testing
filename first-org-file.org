@@ -1,0 +1,4 @@
+* This is the first file in org-mode
+** This is the second heading
+*** Third heading
+
